@@ -14,3 +14,11 @@
 1. Автоэнкодер из лекции (бейзлайн решение) <br>
    True Positive Rate: 0.791, True Negative Rate: 0.958, Threshold: 10.486000000000002
    ![График TP TN в зависимости от порога значений](./imgs/Autoencoder.png)
+
+2. VAE <br>
+   True Positive Rate: 0.89, True Negative Rate: 0.90, Threshold: 16.66
+   ![График TP TN в зависимости от порога значений](./imgs/VAE.png)
+
+3. Автоэнкодер со сверткой
+   True Positive Rate: 0.93, True Negative Rate: 0.77, Threshold: 0.6760000000000002
+   ![График TP TN в зависимости от порога значений](./imgs/Conv.png)
