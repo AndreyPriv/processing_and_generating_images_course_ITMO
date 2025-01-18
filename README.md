@@ -13,4 +13,4 @@
 
 1. Автоэнкодер из лекции (бейзлайн решение) 
    True Positive Rate: 0.791, True Negative Rate: 0.958, Threshold: 10.486000000000002
-   [График TP TN в зависимости от порога значений](./imgs/Autoencoder.png)
+   (./imgs/Autoencoder.png)
